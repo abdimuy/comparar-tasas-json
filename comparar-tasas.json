@@ -1,0 +1,317 @@
+{
+  "updated": "2024-02-26",
+  "version": "1.0.0",
+  "fixedTerm": [
+    {
+      "name": "CETES",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cetesdirecto.png",
+      "rates": {
+        "7 days": null,
+        "1 month": {
+          "value": 11.15,
+          "valueString": "11.15%",
+          "notes": []
+        },
+        "2 months": null,
+        "3 months": {
+          "value": 11.29,
+          "valueString": "11.29%",
+          "notes": []
+        },
+        "6 months": {
+          "value": 11.31,
+          "valueString": "11.31%",
+          "notes": []
+        },
+        "1 year": {
+          "value": 11.21,
+          "valueString": "11.21%",
+          "notes": []
+        },
+        "2 years": {
+          "value": 10.88,
+          "valueString": "10.88%",
+          "notes": []
+        }
+      }
+    },
+    {
+      "name": "Klar",
+      "image": "https://play-lh.googleusercontent.com/czIBDpVoyRTwndEmrIzvvFJFRMA99lN5HNtymWemLhsnORWfoKbOwPlIuDRHEs6bqs0=w240-h480-rw",
+      "rates": {
+        "7 days": {
+          "value": 12.5,
+          "valueString": "11.5% - 12.5%",
+          "notes": []
+        },
+        "1 month": {
+          "value": 15,
+          "valueString": "14% - 15%",
+          "notes": []
+        },
+        "3 months": {
+          "value": 16,
+          "valueString": "15% - 16%",
+          "notes": []
+        },
+        "6 months": {
+          "value": 16.6,
+          "valueString": "15.5% - 16.5%",
+          "notes": []
+        },
+        "1 year": {
+          "value": 17,
+          "valueString": "16% - 17%",
+          "notes": []
+        }
+      }
+    },
+    {
+      "name": "+ Pesos (Finamex)",
+      "image": "https://images.sftcdn.net/images/t_app-icon-m/p/3cdd85b6-4adb-4566-aba7-13fc3d826119/1088902188/finamex-logo",
+      "rates": {
+        "7 days": {
+          "value": 9.5,
+          "valueString": "9.5%",
+          "notes": []
+        },
+        "1 month": {
+          "value": 10.75,
+          "valueString": "10.75%",
+          "notes": []
+        },
+        "2 months": {
+          "value": 12.5,
+          "valueString": "12.5%",
+          "notes": []
+        },
+        "3 months": {
+          "value": 10.95,
+          "valueString": "10.95%",
+          "notes": []
+        }
+      }
+    },
+    {
+      "name": "DINN de Actinver",
+      "image": "https://godinfinanciero.com.mx/wp-content/uploads/2022/05/DINN.png",
+      "rates": {
+        "6 months": {
+          "value": 11,
+          "valueString": "11%",
+          "notes": []
+        }
+      }
+    },
+    {
+      "name": "Fondeadora",
+      "image": "https://finanzasycredito.mx/sites/finanzasycredito.mx/files/2021-09/fondeadora_coral.png",
+      "rates": {
+        "1 month": {
+          "value": 12,
+          "valueString": "12%",
+          "notes": []
+        }
+      }
+    },
+    {
+      "name": "SuperTasas",
+      "image": "https://play-lh.googleusercontent.com/MaLmw8JALdqd1E3ptxtfEwq5FiNbeppsaijxoxe-k15Pcs7ywWxPPhQS9X084vGD1EU",
+      "rates": {
+        "1 month": {
+          "value": 11.5,
+          "valueString": "11.5%",
+          "notes": []
+        },
+        "3 months": {
+          "value": 12,
+          "valueString": "12%",
+          "notes": []
+        },
+        "6 months": {
+          "value": 12.5,
+          "valueString": "12.5%",
+          "notes": []
+        },
+        "1 year": {
+          "value": 13.5,
+          "valueString": "13.5%",
+          "notes": []
+        }
+      }
+    },
+    {
+      "name": "Kubo Financiero",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAe1BMVEU4kjn////Y2gAnjCkjiyQ1kTYwjzHr8+tipGN5sXlQnVEojTs1kTkykDre3QCxxhu8zBVKmTVspy3U5dTW5tYbiR31+fWy0bLf7N9tq25+tH/O4c6bxJxYoVmFt4Usji2OvI5Cl0OjyKPD28RfpGATiBW10rVTnlNeoTA4tsnXAAAEj0lEQVR4nO2d23LaQBBEtUErsE2uNviGLeP7/39hIKlNERBSj7RhGqfPs0VxKivRMzurFIUQQgghhBBCCCGEEEII8SGJFYL3txxAnJwgRO/v2Z/yIiCMvL9nf8pbGcqQHRnKkB8ZypAfGcqQHxnKkB8ZypAfGcqQHxnKkB8ZypAfGcqQHxnKkB8ZypCf/8DwXIYyZEeGMuRHhjLkJ4dhXUI4jeFmMCwvxwjzhY/icMPqGvqEMHZa6YMNYz3HDJdOk9SDDWdPmOB9fUCrTYYa1ieY4NPskFabDDSMBSY4dxMcajjDCujw7HdiY5hhfY8JLsrDWm0yyDAuMcELvzU60HCGHUcJheeRmyGGowdM8Nr12NQAQ3SNXjrehMUgw/IKuvTK8yYshhiOFtCV4dT53Ftvw3iKCbqltURvQ3CN+qW1P1+0p2H5CF03928O9DSs3qDLwp3/+dqehuUYumzh/0/Y07C8hK5yTWuJXobVM3RRiAwHpHsZjrA16pvWEn0My1foGue0luhhCDbXvNNaoofhCGuuefXWtrEbgs0197SWMBtWWHPNP60lrIaxhv5+zvGUWWM1BNeoY29tG6Mh2FxjSGsJmyHYAD5/8ZX6C5sh1gCeu/bWtjEZ1lhzjSOtJSyGYHONJK0lLIYzqHHBktYSBkOwucaS1hK4Idhco0lrCdwQW6M8aS0BG2LNtXlNtkZxw+oO+juC3to2qOEL1LhgSmsJ0PAFaq6d092EBWyIrdGK7iYsYENojXKltQRoiECW1hL5DNnSWiKfIVtaS2QzpEtriVyGfGktkctwRrpG8xkyppnfZLsPWR80+QwpE9uafL8WrA/TjJmGMpVmNST9wcho+PGTN9OG0wY5DcMro2JWwzAhXKd5DceED5u8huGRL7yBhuCxCv952V1AQ/BoDGOlj3YTsXHSFQ9s4Q3tCM+wUbbgfLiiAbirD56j5Csy4J0Z9JxhCDdc6xQ2jBVqGLj2n/D9Q3BMIbAVGYZdbmyLdA1VkWEwjNj2THA9MbqLZRYDnF8PXFsYpokhcHY2HO/kXnWDGhIVGca5NrgS4SkyjLOJS9SQp8gwzpeO4AROU2RYZ4TBA08BLDKm7XgYVhPUECkypt/byaFontXHE/ht9zo9+/qljW9nHobomzBW3HT+KK4MP7XgY2hI4N1FBqehIYF3FhkHMbT/P6R4Au8sMkgN0dN5obvIYDU0JPCOIoPWEE/gHQOntIaGBN5eZJA+SwtTAm8dQ+E1NCTw1iKD2LDAe+Bth/KZDfEeeFuRwWxoSOAtRQa1oaEHvr/IoDa0JPC9RQa3IfoOnrB+S82edcr7i/+LCL6jZsXTnvBGbmjoge8rMtgNC/TlrHuLDHpD8P0Ka5qLDHpDQwJvLjL4DQ0JvLFDzG9oSeBNRcYRGBp64E1FxjEYGnrgDUXGMRhaEvhukXEUhoYe+G6RcRSGlgS+U2Qch6GhBx7ut34UD7EzE08R3to2IOJygvK89TnT9x9tvGfZQIwQGT6i8XOmn9vIIiiEEEIIIYQQQgghhBBCCCGEEEII8S/5CZ1Udiw6qyrYAAAAAElFTkSuQmCC",
+      "rates": {
+        "7 days": {
+          "value": 7.7,
+          "valueString": "7.7%",
+          "notes": []
+        },
+        "1 month": {
+          "value": 10.9,
+          "valueString": "10.9%",
+          "notes": []
+        },
+        "3 months": {
+          "value": 11.65,
+          "valueString": "11.65%",
+          "notes": []
+        },
+        "6 months": {
+          "value": 12.5,
+          "valueString": "12.5%",
+          "notes": []
+        },
+        "1 year": {
+          "value": 13.6,
+          "valueString": "13.6%",
+          "notes": []
+        },
+        "2 years": {
+          "value": 14.3,
+          "valueString": "14.3%",
+          "notes": []
+        }
+      }
+    },
+    {
+      "name": "Finsus",
+      "image": "https://finsus.mx/wp-content/uploads/2023/09/logo5.png",
+      "rates": {
+        "7 days": {
+          "value": 10.06,
+          "valueString": "10.06%",
+          "notes": []
+        },
+        "1 month": {
+          "value": 11.09,
+          "valueString": "11.09%",
+          "notes": []
+        },
+        "3 months": {
+          "value": 12.09,
+          "valueString": "12.09%",
+          "notes": []
+        },
+        "6 months": {
+          "value": 12.6,
+          "valueString": "12.60%",
+          "notes": []
+        },
+        "1 year": {
+          "value": 14.09,
+          "valueString": "14.09%",
+          "notes": []
+        },
+        "2 years": {
+          "value": 14.55,
+          "valueString": "14.55%",
+          "notes": []
+        }
+      }
+    }
+  ],
+  "dailyReturn": [
+    {
+      "name": "BONDDIA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cetesdirecto.png",
+      "rate": {
+        "value": 10.69,
+        "valueString": "10.69%",
+        "notes": []
+      }
+    },
+    {
+      "name": "+ Pesos (Finamex)",
+      "image": "https://images.sftcdn.net/images/t_app-icon-m/p/3cdd85b6-4adb-4566-aba7-13fc3d826119/1088902188/finamex-logo",
+      "rate": {
+        "value": 8.75,
+        "valueString": "8.75%",
+        "notes": []
+      }
+    },
+    {
+      "name": "SmartCash GBM+",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX///8AAADZ2dnl5eVnZ2fu7u6oqKjx8fF2dnaampqHh4dkZGS9vb1VVVVubm5DQ0PR0dH39/dbW1t+fn6ioqIyMjI5OTlAQECMjIzBwcGUlJTd3d3m5uaysrKsrKxMTEwYGBgdHR0RERHKysoqKiojIyPcFzTiAAAD+ElEQVR4nO3ZWUPiMBSG4ZadgkVsRVYZcfz/f3FQck6WpoUZMXPzPleaxCZflzSpWQYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA99Df1NtJWU6Ker6LVcftx8uw5VgrG1X+kYb3jtBheXjKPU+HYHTDvN3Tq9e01ooi1lff/t2P5QntJ7FxF17GroRnU6fpyBbHerOdDX40laNoG7Z7aa4kzB9sUydh3extbGsTJRz/bh+2M4RrCZ070kkYuYjO+Ywl7B8fIqXf0T3y2e0Jc72p3YTzsL9l/ASqXvzW/oZfTo8P1XRUF4OTU6TPlyR8Kj0L2/QQS/gc9jdNndA+9lVPC/fOMGRGl4S98AhbabmVEjdh/hg0d+tSJNzpuQ7eTWU4imHLiG3TSgq8hMFTdUidcGD6WjVqDqMLmQ3bEz6aGp1qvIR532v8ljihPvbjq03bE/ZMzUgK/IQTt+3Gq0qQUDqMrj187QlfTY0u9UzCVeTsmbJFsoRrM4jG9NHUOtOMzdT7oiUm4cQ8oFvb1tzQq1GyhDMzbC1YjpsuNZKwGHmmOiXtw4SDXXj0zCx+53WyhM/hGGILuKGXsMXJmVBMwln2cvlBH1BZc8tLMZZwd9+Eb5eeFlqwzptuSHhau0fVhOYxP0mFud51I+FjORHn20p/ngzi26+/YBY09p31jwlzbyeiCeUMbjLvEFkj4SFvcX2Ovy3ht6+hm8NNaKZZMwmZR2DbTPhYFeK8yNKfi+rb19A8h3obRROOb0yoEW1CWaN9TcDy8l02Ezru/BzKxl4LpquFOJ68Skk43cx9r3Zp20xoFq1fm3kTq8o6E955LpWpM/o+NHXPfsJI06VMyWar5CSU67a3x/u86dMlnJte15G699ye86xrTWPXbWaB5iSUvUuls0n5WZouoT5ckSdaFl3BRBhLKJfHzFhuwr52YGa1r7VduoTZwh+bQ9/95vdbEpob2k0oj3ptbonLiylhQrlN85dgf6jTh2zyuxLK6yxyDWUp+nZ0/zxhwuxDkrh7/KH94qkvko6ZRndLlfe7+cbzkjvMmzFlwp7b/6wYvY7W5YdTpIEk4eIh8GwbN+fSLNgSbtInDLarIfup7IY3fuR9+Mn51vWR/YeEnRHfbbMbEtb+EWfNDuRzXNeaZnG8d8Ksd2oO9svRXfdeT1hK0yCh83lNSjoS/oy6OdzzA/futbma0P4LIEyo3xt1o5g84Xk6KP3hrrb9oEVnwl/lxmlqTpj+Z0m/d2mLbdAijf6mLsrBoKymh15s09Jr0w//gzg05VqwCwsaLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3v4AtiAnumegJ9UAAAAASUVORK5CYII=",
+      "rate": {
+        "value": 9,
+        "valueString": "9%",
+        "notes": []
+      }
+    },
+    {
+      "name": "Ualá (ABC Capital)",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAADgCAMAAAAt85rTAAABZVBMVEX///8CKpv/WXX///7///wCKaEAKqD//f8AJZcAIJJOXKdnc7QFK4////v9//////kAAI0DKpeYpsQAIJp1fLKwvtoAE5xfarUAC5XW4OzEzuD///UAAIQAAIoAAIABLJUAAHkAIKD//+8AAJoAJJ//+f9OXaDDw9r/Wm7+WnNOWqsAF5oADJEzRZwAKqX/VHgADYkAAKHw9P8AHacAHoymqcmDjLSDisKDjL2anL9ebacAMIEAL48AGHsDJ62Zn8m3veEACHmFlLdBUJSts9sxSpxncaLh6fNrR4eTNHm6T4aYSIlbNYe2nLDERXX/WIjYXYfig5m2T4/CyNqxXIU9SKUuP4f/RWzzXnEMJnrQ3vPvkajXiaY5NIstO57ztcLuwMj71t3vXHr45ud1hK3kZXatus9WYpWTmcrzd5Xme4vFy+ntpKtcap3P3urqtL2bRJKnR3i/uMtZL4loI2MnOYSYlsgAmySmAAANOklEQVR4nO2ajX/axhnH79BJAls6IQsTgwDxIowJGAh2CHZsY8dO1KXd+uImceiSNI7rpHWbtdvSv3/PSbwIm6SQJd26Pd8kH2L0dr97Xu9kQhAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRDk34K9+7ARfNjqxx/Jx+Jm51a329mSpKlHpeVOp9vdIpLxOw/rw7FY2rCSpQX9LabcLtUKpVXC/rgCt2PO7R15VZoqUOK7smPGOr/3oD4k27E9V5ZXyRQXBdG9urJDV/Zt9Tdi9b+YxZisydGFyS8Nzg3Ci+ziQGk40RYnf2iByjSBIqu07+QUaiorPaZz/p8Z3QdgqkBGGEuvZ2puwXHcnbZh/A8K5JVSg1JZo5kUU/XpReR9kQjnjBmGCsB/ucGgDrGPVGunCuQgqRKPmpTGMhdFpn5YfYTZhqSCMMJ0w7CJYTOu/mbP8b5MFwgtTCWvOdH4oSd9eO/U7bJqGN7yr4nFROeoDw+wbcKNDzyNA6YnGcZIJb6Su7vPi8UP7zpquciP7ubjlmxZsVZu916F2/bHivLpAiXCUlsVTy/qKim+x13f0vkR4RxgKz39yZ/u37//6WebUUoVt5Dd6UEpIleKsf+zxNhY/OjG41OZFD4CPwVNyzAvXhUoMS6JSgG1QRLWex8LSpeGExYIwffnv3weqcKfyBefWabjKIrZul2BcamXJEL+sZnKjPEQRM/I/E9IU8E5hm7YtkiDzLB1BslKsiWJQVzzKwKDSyS4golMoBMdHqH6MwQ5bo4kwHR4qD61v+Uql76MVNfWQF6kWa1+Ze25YEXZzSW4CpF5SWDwaY+/AsWDY8GnmEPb9o5v9nrLKcOGuTB04l82mKsJC0Lq9m/QP9/a6p17kA2kYQ9j2HPkALUsKoAxrUOHGfuhKbTBv0i1uhb5WlNMU3GoUnvjFY1JdzFI5/rC6sJCevgF0wl8JTge5iTJ5kcP4vFksraSjd3yDJv31u/Cn6XBDEwKhGwGDcyTbD2ZTJayD5eEHxyuA0/6s+dxqG1eP+2pZJpAlf3w6CQypFo9Xfs0RjVKTZNuPPYuPcPgq8mo5mbHAsEBE8loNJpdtoPqxfjybl2Gyx3HpIqVh2DuJJ2ofKM3iM1LFiTlTj7ZEGc7DnWT2oVOnlqKosT79mwCJVVl/euZeDy7vk/syUu4VOb8m+ZJVSjzBTZP1pp/fSKD/ShoLJhekXNdD03VNYvSRik9vgfTz+ArurLMhABV5YnMnqko4ORRRd6jtLTKO0mqOMmlKS4K13h3kxSCnsqyHKWmFs1skaeQ6Wg2ZZDZErlEjvNiCNTNb03OCRcJ5lnTFzjgpNr8Vj1qKeIREImFh1DxWTgWQKBJ42GBJBEIBNsZqsG3W1Qx/QlSTE0zNbm+/armyEpyiVxNMqrtaTGICCorwmfA5IqTW34gnh5PzeqhkpdvmP5wlVx/4ghUAv682YyE9Z2+4DZ/7AoDUjBkPUEmJ/JdAkGh1FkBbY6m7FmtUr1WcBVTiTlUK0wXaLQfWrLQZTqxlRs3wP3pjpLcofMIlMhZMhBI6UZ38hAj5e+qJ+MIjDS/eyH8pmOZgUClkUvr6swC1eJxXFwJog7uLR0vHy0e1Mwd35p0qkByq3R7T1wQj3XPj8+XVuMFxdlw5hLIeMsd6NMKbya8WoIAXBPBNzIh2I8z1e5n/WeYZkOxwEnD+fqdLlrkOxBHEE7ZbpsxBmWJdzNRmN6GNkUgZNVU3reftbvMmSSKburljdtUnksgSWXkQCDcKdcefisexvnzR9Wxf0aqp8+DMRgPBlNCqVM6LxszCmTqeWkHljyNXIUMq750kaWOuNsVgSos4P1Lo+5tb3y/blZ5X4HgKLnQnaCBeXFaHVuvefLoWZAvOXtlDQVS9yWZ1YKMvCw4kDzzFWhOBo2ays+zsqyYVwXq3G7nRTpRWm19VG7LPGEp8wn0MoozNGGmPxyrvzr6phkJlcDm97pfKHVO0tmRQJpPhfqWdwqU2gdivO49yTZGAotk23qLQGm/Lh6QObLH7bVu8Kg5n8B2LvARqEV0pTL6GjqY59VJB33B/VHZ0A2ujPRpyZvhu71LIDkuOZA1c33RWQ46Myj//RydJhB+7NbEsJ5y0YMOBRKyVJsvi/LdPY0OLFjoQdL33QEsqJ6O04uoFd/yoA2Etp5cL4wEFrZnFthLwkwW3hA/7wYCDWgO1kWWuyIQkspd4aHWLdHDj+bdUFPx+SxIVgvacLTWNpOGWxH8m8gEP8CwBhNpcH9ug1mRn5AZY5B0LerQWoKoky3ItutMKRMQnr5n1ffZcCEisFV1U5lP4FLdGY42qnE16J85/7Y5Ln/NKlQIiPRgCKqhH9UVZSDQ3WyHbvZOgQkh0OowNjm0ruXIUwVSITCetsPLHBssPl8nY7zOjJI+jffJQKBw0LDAZ5B1ghhk0AJfZGBNOEijrVDqnUFgrUMubcvfsqZakIwEskmB2pwC+d3oSGByK2i9uPr9pIOeQkzyIDwNSPj9vDwU2Mi8Q6AEy7+Qi9ZEnG+HluT+jC0WpgmUCH9KfRc1+FgKLKbb9WEMzrYgZGQ5K9zNdznzAYP+hZf5jyehBgYWSc+NifnyDhpOcAF1D8YuKlYTMt3xVxP+7gADv04UAoEGuZl0ZFPeDI0XZlPnmrwzrdnmZFtcaS3qoV1CMGB6mGTe9gLqkj5D5W/2/PXdoNSD88MaIlQgItVHP17aQ+OPC0HH5NCNdT46pLJrsFYTlWP0cJssjASmsyb0ZdmKPUqKEjGMSrahKVcFskGZoJvtojoutXYwYXMJtC9yINDPNI0YpAB/jRQJK/xe+OfEZWeDNOoo9a3xNrNqL1rU1QoJEvQE0PTY7QMxE/Vj0artmlAR3PWxCTlEyENXnHDVRTlEup/au4SPBJaNVNBkzCxQPJd0Y4GHUkXTYBH47NFaWF7k5AVTJx3eTmWoPyNR93F7/BzVhkqwpzUO2mpQUSSDbMXEednX8CBjMSZK3srEogWmypSn96Lqrh87B8vjXXSjve6a8wmEwsf4wwJEk7jQyR69+PLR2to4g8Lf51cMyMhSfkPEbW0zFdoGkIr7LeGF1k/cYCqEDmPpA1Ms30EyDOh1Vux2KJkzbutl4dk2P8s0HNqQqbXKbVYG245jUCevWvKOojQy54TZarls2MR7aCn+zMZ6km5f1vJ22o83ghg0zSdfrDWhMIwTzKO/Xc1WzODp1Uw200p44a0qibXzLoSzUltNccm2pfbWgQv5VnZXiSrpjP9U8D2l9GRZvAdgfHm9BfMKK3u50do+TqkgOrQelNr+8l9xs9tpDmdz786mpZhBX1K/c1yeWZ/BvNsFGtTuzZ/X1pqhJrT547S9DwZZVfU8iDF1nOOEM3STYjNJsXKHiVuJhYwlw4oO+s9lEAjnehk/Q2hmvbWwmFiI1V1YPtU0GLLcsDI9Axr5sECyn91zoo7T2Ig71xbvHeZrYIGoNWgw8qmZBdqq1D5sic0EWXa0r8Ilovkjnz5RfrUGlaHNOElXi+1dU2QspeHGNjejMhX7YWZsFZxVNDDsOCdGJzca0c3YZlRxHKrkjzYVsa6lyZ4RdlEieqZEi8rOjqY5oGuj0IALojuv6n59MuPe1IFNQzWgvnRzBSjejuM6X38e9C+RyBrouxx/AvGKFcIMmkRmh1wUOllyIXoAmCpTliH2RPlpWI/b0G4xf9fpCDJjVGwByg0/gyj5HtmuQRRGaa0Hx4VAZ7SrBj+ugAM0GrJCTVBpKoVWn8ei1FSiZml2gf7NyMV6NthM2vzk/unJWrXZPP3l73Pdwye9Wwt6AAcQm+D1w1CiJZXdmj9iWaijbuYmZMY3NRH+QqDN7sVMKFmrwVsEiPVXYh9GdBWmSEa1nT5haUhwprMzhwV91CLEfM5yIatFN//x86df/fLPn7z535EV7XYiv1JwFRmmXZGtTGuJG+NMq4vDraijgXa5kDvsSzY8OJGvJzdKPXHa4o2kVStd97s4Sby/6B/Ga1EIZLNRqGXO2hJEf/8wu5KsxWePQUHwu0Ovz95ksrVCzapn69cu/FwyL+BX7aWXjzPZbCYTW09U+MRbKAkOe73DzXgpnntzlhaxKdr7dmXrTqcCAu2bnTvAzaK4BtwfYpy87j6tx+Pxg8M7ntgEgHxMUsu/vurOaUFYLHDI+dzbX7rTeXWU5kWj/B4vOeE2OgyUt72U57V5sP0y/sUkZvthq3qpFBw0DF2CTgNygCEmE2qjDfVAnB5s9Ehi8xkO+HeD88UxRnRxASnyOeqgPzL/vR4br9ZU1X8dP7dA/xWhuI0E5tL9N85svL0Pg1T99YR/jsQh2HwtqjgJ6iBUndCbMWFgafCaRRfv64h/jZ/B/7i/aIEgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCPJ/zL8AKsVnXedYIHkAAAAASUVORK5CYII=",
+      "rate": {
+        "value": 15,
+        "valueString": "15%",
+        "notes": []
+      }
+    },
+    {
+      "name": "DINN de Actinver",
+      "image": "https://godinfinanciero.com.mx/wp-content/uploads/2022/05/DINN.png",
+      "rate": {
+        "value": 9,
+        "valueString": "9%",
+        "notes": []
+      }
+    },
+    {
+      "name": "Fondeadora",
+      "image": "https://finanzasycredito.mx/sites/finanzasycredito.mx/files/2021-09/fondeadora_coral.png",
+      "rate": {
+        "value": 5,
+        "valueString": "5%",
+        "notes": []
+      }
+    },
+    {
+      "name": "Cuenta Nu",
+      "image": "https://nu.com.mx/images/seo/nu-icon.png?v=2",
+      "rate": {
+        "value": 15,
+        "valueString": "15%",
+        "notes": []
+      }
+    },
+    {
+      "name": "Stori Cuenta+",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Stori_logo_vertical.png",
+      "rate": {
+        "value": 13.98,
+        "valueString": "13.98%",
+        "notes": []
+      }
+    },
+    {
+      "name": "Klar",
+      "image": "https://play-lh.googleusercontent.com/czIBDpVoyRTwndEmrIzvvFJFRMA99lN5HNtymWemLhsnORWfoKbOwPlIuDRHEs6bqs0=w240-h480-rw",
+      "rate": {
+        "value": 11,
+        "valueString": "10% - 11%",
+        "notes": []
+      }
+    },
+    {
+      "name": "SuperTasas",
+      "image": "https://play-lh.googleusercontent.com/MaLmw8JALdqd1E3ptxtfEwq5FiNbeppsaijxoxe-k15Pcs7ywWxPPhQS9X084vGD1EU",
+      "rate": {
+        "value": 11.3,
+        "valueString": "11.3%",
+        "notes": []
+      }
+    },
+    {
+      "name": "Kubo Financiero",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAe1BMVEU4kjn////Y2gAnjCkjiyQ1kTYwjzHr8+tipGN5sXlQnVEojTs1kTkykDre3QCxxhu8zBVKmTVspy3U5dTW5tYbiR31+fWy0bLf7N9tq25+tH/O4c6bxJxYoVmFt4Usji2OvI5Cl0OjyKPD28RfpGATiBW10rVTnlNeoTA4tsnXAAAEj0lEQVR4nO2d23LaQBBEtUErsE2uNviGLeP7/39hIKlNERBSj7RhGqfPs0VxKivRMzurFIUQQgghhBBCCCGEEEII8SGJFYL3txxAnJwgRO/v2Z/yIiCMvL9nf8pbGcqQHRnKkB8ZypAfGcqQHxnKkB8ZypAfGcqQHxnKkB8ZypAfGcqQHxnKkB8ZypCf/8DwXIYyZEeGMuRHhjLkJ4dhXUI4jeFmMCwvxwjzhY/icMPqGvqEMHZa6YMNYz3HDJdOk9SDDWdPmOB9fUCrTYYa1ieY4NPskFabDDSMBSY4dxMcajjDCujw7HdiY5hhfY8JLsrDWm0yyDAuMcELvzU60HCGHUcJheeRmyGGowdM8Nr12NQAQ3SNXjrehMUgw/IKuvTK8yYshhiOFtCV4dT53Ftvw3iKCbqltURvQ3CN+qW1P1+0p2H5CF03928O9DSs3qDLwp3/+dqehuUYumzh/0/Y07C8hK5yTWuJXobVM3RRiAwHpHsZjrA16pvWEn0My1foGue0luhhCDbXvNNaoofhCGuuefXWtrEbgs0197SWMBtWWHPNP60lrIaxhv5+zvGUWWM1BNeoY29tG6Mh2FxjSGsJmyHYAD5/8ZX6C5sh1gCeu/bWtjEZ1lhzjSOtJSyGYHONJK0lLIYzqHHBktYSBkOwucaS1hK4Idhco0lrCdwQW6M8aS0BG2LNtXlNtkZxw+oO+juC3to2qOEL1LhgSmsJ0PAFaq6d092EBWyIrdGK7iYsYENojXKltQRoiECW1hL5DNnSWiKfIVtaS2QzpEtriVyGfGktkctwRrpG8xkyppnfZLsPWR80+QwpE9uafL8WrA/TjJmGMpVmNST9wcho+PGTN9OG0wY5DcMro2JWwzAhXKd5DceED5u8huGRL7yBhuCxCv952V1AQ/BoDGOlj3YTsXHSFQ9s4Q3tCM+wUbbgfLiiAbirD56j5Csy4J0Z9JxhCDdc6xQ2jBVqGLj2n/D9Q3BMIbAVGYZdbmyLdA1VkWEwjNj2THA9MbqLZRYDnF8PXFsYpokhcHY2HO/kXnWDGhIVGca5NrgS4SkyjLOJS9SQp8gwzpeO4AROU2RYZ4TBA08BLDKm7XgYVhPUECkypt/byaFontXHE/ht9zo9+/qljW9nHobomzBW3HT+KK4MP7XgY2hI4N1FBqehIYF3FhkHMbT/P6R4Au8sMkgN0dN5obvIYDU0JPCOIoPWEE/gHQOntIaGBN5eZJA+SwtTAm8dQ+E1NCTw1iKD2LDAe+Bth/KZDfEeeFuRwWxoSOAtRQa1oaEHvr/IoDa0JPC9RQa3IfoOnrB+S82edcr7i/+LCL6jZsXTnvBGbmjoge8rMtgNC/TlrHuLDHpD8P0Ka5qLDHpDQwJvLjL4DQ0JvLFDzG9oSeBNRcYRGBp64E1FxjEYGnrgDUXGMRhaEvhukXEUhoYe+G6RcRSGlgS+U2Qch6GhBx7ut34UD7EzE08R3to2IOJygvK89TnT9x9tvGfZQIwQGT6i8XOmn9vIIiiEEEIIIYQQQgghhBBCCCGEEEII8S/5CZ1Udiw6qyrYAAAAAElFTkSuQmCC",
+      "rate": {
+        "value": 2,
+        "valueString": "2%",
+        "notes": []
+      }
+    }
+  ]
+}
