@@ -8,29 +8,29 @@
       "rates": {
         "7 days": null,
         "1 month": {
-          "value": 11.0,
-          "valueString": "11.00%",
+          "value": 10.9,
+          "valueString": "10.90%",
           "notes": []
         },
         "2 months": null,
         "3 months": {
-          "value": 11.35,
-          "valueString": "11.35%",
+          "value": 11.12,
+          "valueString": "11.12%",
           "notes": []
         },
         "6 months": {
-          "value": 11.33,
-          "valueString": "11.33%",
+          "value": 11.18,
+          "valueString": "11.18%",
           "notes": []
         },
         "1 year": {
-          "value": 11.22,
-          "valueString": "11.22%",
+          "value": 11.1,
+          "valueString": "11.10%",
           "notes": []
         },
         "2 years": {
-          "value": 11,
-          "valueString": "11%",
+          "value": 10.86,
+          "valueString": "10.86%",
           "notes": []
         }
       }
@@ -97,8 +97,8 @@
       "image": "https://godinfinanciero.com.mx/wp-content/uploads/2022/05/DINN.png",
       "rates": {
         "6 months": {
-          "value": 11,
-          "valueString": "11%",
+          "value": 9,
+          "valueString": "9%",
           "notes": []
         }
       }
@@ -218,8 +218,8 @@
       "name": "BONDDIA",
       "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cetesdirecto.png",
       "rate": {
-        "value": 11.19,
-        "valueString": "10.69%",
+        "value": 11.07,
+        "valueString": "10.07%",
         "notes": []
       }
     },
@@ -236,8 +236,8 @@
       "name": "SmartCash GBM+",
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEX///8AAADZ2dnl5eVnZ2fu7u6oqKjx8fF2dnaampqHh4dkZGS9vb1VVVVubm5DQ0PR0dH39/dbW1t+fn6ioqIyMjI5OTlAQECMjIzBwcGUlJTd3d3m5uaysrKsrKxMTEwYGBgdHR0RERHKysoqKiojIyPcFzTiAAAD+ElEQVR4nO3ZWUPiMBSG4ZadgkVsRVYZcfz/f3FQck6WpoUZMXPzPleaxCZflzSpWQYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA99Df1NtJWU6Ker6LVcftx8uw5VgrG1X+kYb3jtBheXjKPU+HYHTDvN3Tq9e01ooi1lff/t2P5QntJ7FxF17GroRnU6fpyBbHerOdDX40laNoG7Z7aa4kzB9sUydh3extbGsTJRz/bh+2M4RrCZ070kkYuYjO+Ywl7B8fIqXf0T3y2e0Jc72p3YTzsL9l/ASqXvzW/oZfTo8P1XRUF4OTU6TPlyR8Kj0L2/QQS/gc9jdNndA+9lVPC/fOMGRGl4S98AhbabmVEjdh/hg0d+tSJNzpuQ7eTWU4imHLiG3TSgq8hMFTdUidcGD6WjVqDqMLmQ3bEz6aGp1qvIR532v8ljihPvbjq03bE/ZMzUgK/IQTt+3Gq0qQUDqMrj187QlfTY0u9UzCVeTsmbJFsoRrM4jG9NHUOtOMzdT7oiUm4cQ8oFvb1tzQq1GyhDMzbC1YjpsuNZKwGHmmOiXtw4SDXXj0zCx+53WyhM/hGGILuKGXsMXJmVBMwln2cvlBH1BZc8tLMZZwd9+Eb5eeFlqwzptuSHhau0fVhOYxP0mFud51I+FjORHn20p/ngzi26+/YBY09p31jwlzbyeiCeUMbjLvEFkj4SFvcX2Ovy3ht6+hm8NNaKZZMwmZR2DbTPhYFeK8yNKfi+rb19A8h3obRROOb0yoEW1CWaN9TcDy8l02Ezru/BzKxl4LpquFOJ68Skk43cx9r3Zp20xoFq1fm3kTq8o6E955LpWpM/o+NHXPfsJI06VMyWar5CSU67a3x/u86dMlnJte15G699ye86xrTWPXbWaB5iSUvUuls0n5WZouoT5ckSdaFl3BRBhLKJfHzFhuwr52YGa1r7VduoTZwh+bQ9/95vdbEpob2k0oj3ptbonLiylhQrlN85dgf6jTh2zyuxLK6yxyDWUp+nZ0/zxhwuxDkrh7/KH94qkvko6ZRndLlfe7+cbzkjvMmzFlwp7b/6wYvY7W5YdTpIEk4eIh8GwbN+fSLNgSbtInDLarIfup7IY3fuR9+Mn51vWR/YeEnRHfbbMbEtb+EWfNDuRzXNeaZnG8d8Ksd2oO9svRXfdeT1hK0yCh83lNSjoS/oy6OdzzA/futbma0P4LIEyo3xt1o5g84Xk6KP3hrrb9oEVnwl/lxmlqTpj+Z0m/d2mLbdAijf6mLsrBoKymh15s09Jr0w//gzg05VqwCwsaLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3v4AtiAnumegJ9UAAAAASUVORK5CYII=",
       "rate": {
-        "value": 9,
-        "valueString": "9%",
+        "value": 8.75,
+        "valueString": "8.75%",
         "notes": []
       }
     },
@@ -254,8 +254,8 @@
       "name": "DINN de Actinver",
       "image": "https://godinfinanciero.com.mx/wp-content/uploads/2022/05/DINN.png",
       "rate": {
-        "value": 9,
-        "valueString": "5.6% - 9%",
+        "value": 5.45,
+        "valueString": "5.45%",
         "notes": []
       }
     },
