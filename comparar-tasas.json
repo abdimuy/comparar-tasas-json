@@ -11,32 +11,37 @@
           "value": 10.88,
           "valueString": "10.88%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 10
         },
         "2 months": null,
         "3 months": {
           "value": 11.09,
           "valueString": "11.09%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 10
         },
         "6 months": {
           "value": 11.17,
           "valueString": "11.17%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 10
         },
         "1 year": {
           "value": 11.03,
           "valueString": "11.03%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 10
         },
         "2 years": {
           "value": 10.86,
           "valueString": "10.86%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 10
         }
       }
     },
@@ -48,31 +53,36 @@
           "value": 12.5,
           "valueString": "11.5% - 12.5%",
           "notes": [],
-          "interestPaymentFrequency": "Semanal/Al vencimiento"
+          "interestPaymentFrequency": "Semanal/Al vencimiento",
+          "minAmount": 100
         },
         "1 month": {
           "value": 15,
           "valueString": "14% - 15%",
           "notes": [],
-          "interestPaymentFrequency": "Semanal/Al vencimiento"
+          "interestPaymentFrequency": "Semanal/Al vencimiento",
+          "minAmount": 100
         },
         "3 months": {
           "value": 16,
           "valueString": "15% - 16%",
           "notes": [],
-          "interestPaymentFrequency": "Semanal/Al vencimiento"
+          "interestPaymentFrequency": "Semanal/Al vencimiento",
+          "minAmount": 100
         },
         "6 months": {
           "value": 16.6,
           "valueString": "15.5% - 16.5%",
           "notes": [],
-          "interestPaymentFrequency": "Semanal/Al vencimiento"
+          "interestPaymentFrequency": "Semanal/Al vencimiento",
+          "minAmount": 100
         },
         "1 year": {
           "value": 17,
           "valueString": "16% - 17%",
           "notes": [],
-          "interestPaymentFrequency": "Semanal/Al vencimiento"
+          "interestPaymentFrequency": "Semanal/Al vencimiento",
+          "minAmount": 100
         }
       }
     },
@@ -84,25 +94,29 @@
           "value": 9.5,
           "valueString": "9.5%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 100
         },
         "1 month": {
           "value": 10.75,
           "valueString": "10.75%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 100
         },
         "2 months": {
           "value": 12.5,
           "valueString": "12.5%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 100
         },
         "3 months": {
           "value": 10.95,
           "valueString": "10.95%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 100
         }
       }
     },
@@ -114,7 +128,8 @@
           "value": 9,
           "valueString": "9%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "-",
+          "minAmount": 6
         }
       }
     },
@@ -126,7 +141,8 @@
           "value": 12,
           "valueString": "12%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 0.01
         }
       }
     },
@@ -138,25 +154,29 @@
           "value": 11.5,
           "valueString": "11.5%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 1
         },
         "3 months": {
           "value": 12,
           "valueString": "12%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 1
         },
         "6 months": {
           "value": 12.5,
           "valueString": "12.5%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 1
         },
         "1 year": {
           "value": 13.5,
           "valueString": "13 - 13.5%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 1
         }
       }
     },
@@ -168,37 +188,43 @@
           "value": 8,
           "valueString": "7.1% - 8%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 50
         },
         "1 month": {
           "value": 10.2,
           "valueString": "10.30% - 11.20%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 50
         },
         "3 months": {
           "value": 11.95,
           "valueString": "11.05% - 11.95%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 50
         },
         "6 months": {
           "value": 12.12,
           "valueString": "11.22% - 12.12%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 50
         },
         "1 year": {
           "value": 13.9,
           "valueString": "13.6%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 50
         },
         "2 years": {
           "value": 13.9,
           "valueString": "13% - 13.9",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 50
         }
       }
     },
@@ -210,37 +236,43 @@
           "value": 10.06,
           "valueString": "10.06%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 100
         },
         "1 month": {
           "value": 11.09,
           "valueString": "11.09%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 100
         },
         "3 months": {
           "value": 12.09,
           "valueString": "12.09%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 100
         },
         "6 months": {
           "value": 12.6,
           "valueString": "12.60%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 100
         },
         "1 year": {
           "value": 14.09,
           "valueString": "14.09%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 100
         },
         "2 years": {
           "value": 14.55,
           "valueString": "14.55%",
           "notes": [],
-          "interestPaymentFrequency": "Al vencimiento"
+          "interestPaymentFrequency": "Al vencimiento",
+          "minAmount": 100
         }
       }
     }
@@ -253,7 +285,8 @@
         "value": 11.07,
         "valueString": "10.07%",
         "notes": [],
-        "interestPaymentFrequency": "Diario"
+        "interestPaymentFrequency": "Diario",
+        "minAmount": 100
       }
     },
     {
@@ -263,7 +296,8 @@
         "value": 8.75,
         "valueString": "8.75%",
         "notes": [],
-        "interestPaymentFrequency": "Diario"
+        "interestPaymentFrequency": "Diario",
+        "minAmount": 100
       }
     },
     {
@@ -273,7 +307,8 @@
         "value": 8.75,
         "valueString": "8.75%",
         "notes": [],
-        "interestPaymentFrequency": "Diario"
+        "interestPaymentFrequency": "Diario",
+        "minAmount": 100
       }
     },
     {
@@ -283,7 +318,8 @@
         "value": 15,
         "valueString": "15%",
         "notes": [],
-        "interestPaymentFrequency": "Diario"
+        "interestPaymentFrequency": "Diario",
+        "minAmount": 100
       }
     },
     {
@@ -293,7 +329,8 @@
         "value": 5.45,
         "valueString": "5.45%",
         "notes": [],
-        "interestPaymentFrequency": "Diario"
+        "interestPaymentFrequency": "Diario",
+        "minAmount": 1
       }
     },
     {
@@ -303,7 +340,8 @@
         "value": 5,
         "valueString": "5%",
         "notes": [],
-        "interestPaymentFrequency": "Diario"
+        "interestPaymentFrequency": "Diario",
+        "minAmount": 1
       }
     },
     {
@@ -313,7 +351,8 @@
         "value": 15,
         "valueString": "15%",
         "notes": [],
-        "interestPaymentFrequency": "Diario"
+        "interestPaymentFrequency": "Diario",
+        "minAmount": 0.01
       }
     },
     {
@@ -323,7 +362,8 @@
         "value": 13.98,
         "valueString": "13.98%",
         "notes": [],
-        "interestPaymentFrequency": "Diario"
+        "interestPaymentFrequency": "Diario",
+        "minAmount": 0.01
       }
     },
     {
@@ -333,7 +373,8 @@
         "value": 11,
         "valueString": "10% - 11%",
         "notes": [],
-        "interestPaymentFrequency": "Diario"
+        "interestPaymentFrequency": "Diario",
+        "minAmount": 0
       }
     },
     {
@@ -343,7 +384,8 @@
         "value": 11.3,
         "valueString": "11.3%",
         "notes": [],
-        "interestPaymentFrequency": "Diario"
+        "interestPaymentFrequency": "Diario",
+        "minAmount": 1
       }
     },
     {
@@ -353,7 +395,8 @@
         "value": 2,
         "valueString": "2%",
         "notes": [],
-        "interestPaymentFrequency": "Diario"
+        "interestPaymentFrequency": "Diario",
+        "minAmount": 0
       }
     }
   ]
