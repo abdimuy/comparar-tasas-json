@@ -6,6 +6,13 @@
       "name": "CETES",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/centes-logo.png?alt=media&token=850c8d81-17be-41a5-a02b-f80fccb98f37",
       "rates": {
+        "daily": {
+          "value": 11.07,
+          "valueString": "10.07%",
+          "notes": [],
+          "interestPaymentFrequency": "Diario",
+          "minAmount": 100
+        },
         "7 days": null,
         "1 month": {
           "value": 10.88,
@@ -49,6 +56,13 @@
       "name": "Klar",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/klar.webp?alt=media&token=dcdb82a7-eb7a-476a-b67a-7f6c3962b620",
       "rates": {
+        "daily": {
+          "value": 11,
+          "valueString": "10% - 11%",
+          "notes": [],
+          "interestPaymentFrequency": "Diario",
+          "minAmount": 0
+        },
         "7 days": {
           "value": 12.5,
           "valueString": "11.5% - 12.5%",
@@ -90,6 +104,13 @@
       "name": "+ Pesos (Finamex)",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/finamex-logo.png?alt=media&token=0cceb986-7b9a-47c5-bec2-2c40094d3ab5",
       "rates": {
+        "daily": {
+          "value": 8.75,
+          "valueString": "8.75%",
+          "notes": [],
+          "interestPaymentFrequency": "Diario",
+          "minAmount": 100
+        },
         "7 days": {
           "value": 9.5,
           "valueString": "9.5%",
@@ -121,9 +142,29 @@
       }
     },
     {
+      "name": "SmartCash GBM+",
+      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/gbm-logo.png?alt=media&token=57a305be-9a19-4799-8bf8-33986c347e5a",
+      "rates": {
+        "daily": {
+          "value": 8.75,
+          "valueString": "8.75%",
+          "notes": [],
+          "interestPaymentFrequency": "Diario",
+          "minAmount": 100
+        }
+      }
+    },
+    {
       "name": "DINN de Actinver",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/dinn-logo.png?alt=media&token=ad8d04f6-71c3-4b08-890d-f640042ef908",
       "rates": {
+        "daily": {
+          "value": 5.45,
+          "valueString": "5.45%",
+          "notes": [],
+          "interestPaymentFrequency": "Diario",
+          "minAmount": 1
+        },
         "6 months": {
           "value": 9,
           "valueString": "9%",
@@ -134,9 +175,29 @@
       }
     },
     {
+      "name": "Ualá (ABC Capital)",
+      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/uala-logo.jpg?alt=media&token=d3696dfd-8dd5-4284-966a-808b6514d353",
+      "rates": {
+        "daily": {
+          "value": 15,
+          "valueString": "15%",
+          "notes": [],
+          "interestPaymentFrequency": "Diario",
+          "minAmount": 100
+        }
+      }
+    },
+    {
       "name": "Fondeadora",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/fondeadora-logo.jpg?alt=media&token=17bebcb4-b675-4d2a-9f8a-3f79c62cdec0",
       "rates": {
+        "daily": {
+          "value": 5,
+          "valueString": "5%",
+          "notes": [],
+          "interestPaymentFrequency": "Diario",
+          "minAmount": 1
+        },
         "1 month": {
           "value": 12,
           "valueString": "12%",
@@ -147,9 +208,42 @@
       }
     },
     {
+      "name": "Cuenta Nu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/nu-logo.jpg?alt=media&token=e883e622-60ce-4ae2-bdc7-981e0ef97988",
+      "rates": {
+        "daily": {
+          "value": 15,
+          "valueString": "15%",
+          "notes": [],
+          "interestPaymentFrequency": "Diario",
+          "minAmount": 0.01
+        }
+      }
+    },
+    {
+      "name": "Stori Cuenta+",
+      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/stori-logo.png?alt=media&token=500138f0-72f6-442c-b4d7-ae92099cf377",
+      "rates": {
+        "daily": {
+          "value": 13.98,
+          "valueString": "13.98%",
+          "notes": [],
+          "interestPaymentFrequency": "Diario",
+          "minAmount": 0.01
+        }
+      }
+    },
+    {
       "name": "SuperTasas",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/supertasas-logo.jpg?alt=media&token=a05e405b-2d72-4df2-beff-5d3e03dee5af",
       "rates": {
+        "daily": {
+          "value": 11.3,
+          "valueString": "11.3%",
+          "notes": [],
+          "interestPaymentFrequency": "Diario",
+          "minAmount": 1
+        },
         "1 month": {
           "value": 11.5,
           "valueString": "11.5%",
@@ -184,6 +278,13 @@
       "name": "Kubo Financiero",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/kubo-logo.png?alt=media&token=24ad36c1-b346-4c8b-9c47-3426a0080b56",
       "rates": {
+        "daily": {
+          "value": 2,
+          "valueString": "2%",
+          "notes": [],
+          "interestPaymentFrequency": "Diario",
+          "minAmount": 0
+        },
         "7 days": {
           "value": 8,
           "valueString": "7.1% - 8%",
@@ -274,129 +375,6 @@
           "interestPaymentFrequency": "Al cierre",
           "minAmount": 100
         }
-      }
-    }
-  ],
-  "dailyReturn": [
-    {
-      "name": "BONDDIA",
-      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/centes-logo.png?alt=media&token=850c8d81-17be-41a5-a02b-f80fccb98f37",
-      "rate": {
-        "value": 11.07,
-        "valueString": "10.07%",
-        "notes": [],
-        "interestPaymentFrequency": "Diario",
-        "minAmount": 100
-      }
-    },
-    {
-      "name": "+ Pesos (Finamex)",
-      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/finamex-logo.png?alt=media&token=0cceb986-7b9a-47c5-bec2-2c40094d3ab5",
-      "rate": {
-        "value": 8.75,
-        "valueString": "8.75%",
-        "notes": [],
-        "interestPaymentFrequency": "Diario",
-        "minAmount": 100
-      }
-    },
-    {
-      "name": "SmartCash GBM+",
-      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/gbm-logo.png?alt=media&token=57a305be-9a19-4799-8bf8-33986c347e5a",
-      "rate": {
-        "value": 8.75,
-        "valueString": "8.75%",
-        "notes": [],
-        "interestPaymentFrequency": "Diario",
-        "minAmount": 100
-      }
-    },
-    {
-      "name": "Ualá (ABC Capital)",
-      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/uala-logo.jpg?alt=media&token=d3696dfd-8dd5-4284-966a-808b6514d353",
-      "rate": {
-        "value": 15,
-        "valueString": "15%",
-        "notes": [],
-        "interestPaymentFrequency": "Diario",
-        "minAmount": 100
-      }
-    },
-    {
-      "name": "DINN de Actinver",
-      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/dinn-logo.png?alt=media&token=ad8d04f6-71c3-4b08-890d-f640042ef908",
-      "rate": {
-        "value": 5.45,
-        "valueString": "5.45%",
-        "notes": [],
-        "interestPaymentFrequency": "Diario",
-        "minAmount": 1
-      }
-    },
-    {
-      "name": "Fondeadora",
-      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/fondeadora-logo.jpg?alt=media&token=17bebcb4-b675-4d2a-9f8a-3f79c62cdec0",
-      "rate": {
-        "value": 5,
-        "valueString": "5%",
-        "notes": [],
-        "interestPaymentFrequency": "Diario",
-        "minAmount": 1
-      }
-    },
-    {
-      "name": "Cuenta Nu",
-      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/nu-logo.jpg?alt=media&token=e883e622-60ce-4ae2-bdc7-981e0ef97988",
-      "rate": {
-        "value": 15,
-        "valueString": "15%",
-        "notes": [],
-        "interestPaymentFrequency": "Diario",
-        "minAmount": 0.01
-      }
-    },
-    {
-      "name": "Stori Cuenta+",
-      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/stori-logo.png?alt=media&token=500138f0-72f6-442c-b4d7-ae92099cf377",
-      "rate": {
-        "value": 13.98,
-        "valueString": "13.98%",
-        "notes": [],
-        "interestPaymentFrequency": "Diario",
-        "minAmount": 0.01
-      }
-    },
-    {
-      "name": "Klar",
-      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/klar.webp?alt=media&token=dcdb82a7-eb7a-476a-b67a-7f6c3962b620",
-      "rate": {
-        "value": 11,
-        "valueString": "10% - 11%",
-        "notes": [],
-        "interestPaymentFrequency": "Diario",
-        "minAmount": 0
-      }
-    },
-    {
-      "name": "SuperTasas",
-      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/supertasas-logo.jpg?alt=media&token=a05e405b-2d72-4df2-beff-5d3e03dee5af",
-      "rate": {
-        "value": 11.3,
-        "valueString": "11.3%",
-        "notes": [],
-        "interestPaymentFrequency": "Diario",
-        "minAmount": 1
-      }
-    },
-    {
-      "name": "Kubo Financiero",
-      "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/kubo-logo.png?alt=media&token=24ad36c1-b346-4c8b-9c47-3426a0080b56",
-      "rate": {
-        "value": 2,
-        "valueString": "2%",
-        "notes": [],
-        "interestPaymentFrequency": "Diario",
-        "minAmount": 0
       }
     }
   ]
