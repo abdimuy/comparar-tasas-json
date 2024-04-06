@@ -53,7 +53,14 @@
         }
       },
       "description": "Los CETES son certificados emitidos por el gobierno de México a través del Banco de México. Representan una inversión segura respaldada por el gobierno y ofrecen rendimientos competitivos. Son ideales para quienes buscan seguridad y liquidez en sus inversiones de corto plazo.",
-      "webSite": "https://www.cetesdirecto.com/"
+      "webSite": "https://www.cetesdirecto.com/",
+      "institutionType": "Banco central (Banco de México)",
+      "insurence": "-",
+      "coverageLimit": "-",
+      "businessName": "-",
+      "regulatoryOversight": "Secretaría de Hacienda y Crédito Público (SHCP)",
+      "automaticRenewal": "No",
+      "minAmount": 10
     },
     {
       "id": "klar",
