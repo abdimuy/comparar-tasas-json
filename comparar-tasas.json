@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "fixedTerm": [
     {
+      "id": "cetes",
       "name": "CETES",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/centes-logo.png?alt=media&token=850c8d81-17be-41a5-a02b-f80fccb98f37",
       "rates": {
@@ -50,9 +51,12 @@
           "interestPaymentFrequency": "Al cierre",
           "minAmount": 10
         }
-      }
+      },
+      "description": "Los CETES son certificados emitidos por el gobierno de México a través del Banco de México. Representan una inversión segura respaldada por el gobierno y ofrecen rendimientos competitivos. Son ideales para quienes buscan seguridad y liquidez en sus inversiones de corto plazo.",
+      "webSite": "https://www.cetesdirecto.com/"
     },
     {
+      "id": "klar",
       "name": "Klar",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/klar.webp?alt=media&token=dcdb82a7-eb7a-476a-b67a-7f6c3962b620",
       "rates": {
@@ -101,6 +105,7 @@
       }
     },
     {
+      "id": "finamex",
       "name": "+ Pesos (Finamex)",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/finamex-logo.png?alt=media&token=0cceb986-7b9a-47c5-bec2-2c40094d3ab5",
       "rates": {
@@ -142,6 +147,7 @@
       }
     },
     {
+      "id": "gbm",
       "name": "SmartCash GBM+",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/gbm-logo.png?alt=media&token=57a305be-9a19-4799-8bf8-33986c347e5a",
       "rates": {
@@ -155,6 +161,7 @@
       }
     },
     {
+      "id": "actinver",
       "name": "DINN de Actinver",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/dinn-logo.png?alt=media&token=ad8d04f6-71c3-4b08-890d-f640042ef908",
       "rates": {
@@ -175,6 +182,7 @@
       }
     },
     {
+      "id": "uala",
       "name": "Ualá (ABC Capital)",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/uala-logo.jpg?alt=media&token=d3696dfd-8dd5-4284-966a-808b6514d353",
       "rates": {
@@ -188,6 +196,7 @@
       }
     },
     {
+      "id": "fondeadora",
       "name": "Fondeadora",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/fondeadora-logo.jpg?alt=media&token=17bebcb4-b675-4d2a-9f8a-3f79c62cdec0",
       "rates": {
@@ -208,6 +217,7 @@
       }
     },
     {
+      "id": "nu",
       "name": "Cuenta Nu",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/nu-logo.jpg?alt=media&token=e883e622-60ce-4ae2-bdc7-981e0ef97988",
       "rates": {
@@ -221,6 +231,7 @@
       }
     },
     {
+      "id": "stori",
       "name": "Stori Cuenta+",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/stori-logo.png?alt=media&token=500138f0-72f6-442c-b4d7-ae92099cf377",
       "rates": {
@@ -234,6 +245,7 @@
       }
     },
     {
+      "id": "supertasas",
       "name": "SuperTasas",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/supertasas-logo.jpg?alt=media&token=a05e405b-2d72-4df2-beff-5d3e03dee5af",
       "rates": {
@@ -275,6 +287,7 @@
       }
     },
     {
+      "id": "kubo",
       "name": "Kubo Financiero",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/kubo-logo.png?alt=media&token=24ad36c1-b346-4c8b-9c47-3426a0080b56",
       "rates": {
@@ -330,6 +343,7 @@
       }
     },
     {
+      "id": "finsus",
       "name": "Finsus",
       "image": "https://firebasestorage.googleapis.com/v0/b/comparartasas.appspot.com/o/finsus-logo.png?alt=media&token=bb33ce74-7f7a-49d1-ab40-bbbce8f8fad7",
       "rates": {
