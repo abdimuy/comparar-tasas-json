@@ -84,36 +84,36 @@
           "minAmount": 0
         },
         "7 days": {
-          "value": 12.5,
-          "valueString": "11.5% - 12.5%",
+          "value": 11.05,
+          "valueString": "10% - 11.05%",
           "notes": [],
           "interestPaymentFrequency": "Semanal/Al cierre",
           "minAmount": 100
         },
         "1 month": {
-          "value": 15,
-          "valueString": "14% - 15%",
+          "value": 17,
+          "valueString": "12.25% - 17%",
           "notes": [],
           "interestPaymentFrequency": "Semanal/Al cierre",
           "minAmount": 100
         },
         "3 months": {
-          "value": 16,
-          "valueString": "15% - 16%",
+          "value": 12.15,
+          "valueString": "10,5% - 12.15%",
           "notes": [],
           "interestPaymentFrequency": "Semanal/Al cierre",
           "minAmount": 100
         },
         "6 months": {
-          "value": 16.6,
-          "valueString": "15.5% - 16.5%",
+          "value": 11.75,
+          "valueString": "10.25% - 11.75%",
           "notes": [],
           "interestPaymentFrequency": "Semanal/Al cierre",
           "minAmount": 100
         },
         "1 year": {
-          "value": 17,
-          "valueString": "16% - 17%",
+          "value": 11.15,
+          "valueString": "10.1% - 11.15%",
           "notes": [],
           "interestPaymentFrequency": "Semanal/Al cierre",
           "minAmount": 100
